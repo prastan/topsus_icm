@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node> 
+	<title>Introduction</title>
+	<materi>
+		<name>XXXXXXXXXJava Course Intro</name>
+		<url>http://www.inf.ed.ac.uk/teaching/courses/inf1/op/2014/lectures/01-intro.slides.pdf</url>
+		<color>white</color>
+	</materi>
+	<materi>
+		<name>Fundamental Programming Structures</name>
+		<url>http://www.informit.com/articles/article.aspx?p=101766</url>
+		<color>white</color>
+	</materi>
+</node>
